@@ -1,0 +1,10 @@
+{
+  "name": "@mipana-workspace/shell-app-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@mipana-workspace/shell-app"
+    ]
+  }
+}

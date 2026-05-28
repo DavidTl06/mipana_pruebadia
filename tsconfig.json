@@ -1,0 +1,25 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/mipana-workspace-e2e"
+    },
+    {
+      "path": "./apps/mipana-workspace"
+    },
+    {
+      "path": "./api-core-e2e"
+    },
+    {
+      "path": "./api-core"
+    },
+    {
+      "path": "./shell-app-e2e"
+    },
+    {
+      "path": "./shell-app"
+    }
+  ]
+}
